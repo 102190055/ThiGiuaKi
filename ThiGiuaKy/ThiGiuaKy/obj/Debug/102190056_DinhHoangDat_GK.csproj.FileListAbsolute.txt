@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.exe.config
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.exe
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\bin\Debug\ThiGiuaKy.pdb
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\102190056_DinhHoangDat_GK.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.MainForm.resources
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.Form2.resources
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.Properties.Resources.resources
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\102190056_DinhHoangDat_GK.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\102190056_DinhHoangDat_GK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.exe
+C:\Users\ACER\source\repos\ThiGiuaKy\ThiGiuaKy\obj\Debug\ThiGiuaKy.pdb
